@@ -1,0 +1,12 @@
+C:\Work_space\MorseCodeDecoder\bin\Debug\net6.0\MorseCodeDecoder.deps.json
+C:\Work_space\MorseCodeDecoder\bin\Debug\net6.0\MorseCodeDecoder.dll
+C:\Work_space\MorseCodeDecoder\bin\Debug\net6.0\MorseCodeDecoder.pdb
+C:\Work_space\MorseCodeDecoder\obj\Debug\net6.0\MorseCodeDecoder.csproj.AssemblyReference.cache
+C:\Work_space\MorseCodeDecoder\obj\Debug\net6.0\MorseCodeDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work_space\MorseCodeDecoder\obj\Debug\net6.0\MorseCodeDecoder.AssemblyInfoInputs.cache
+C:\Work_space\MorseCodeDecoder\obj\Debug\net6.0\MorseCodeDecoder.AssemblyInfo.cs
+C:\Work_space\MorseCodeDecoder\obj\Debug\net6.0\MorseCodeDecoder.csproj.CoreCompileInputs.cache
+C:\Work_space\MorseCodeDecoder\obj\Debug\net6.0\MorseCodeDecoder.dll
+C:\Work_space\MorseCodeDecoder\obj\Debug\net6.0\refint\MorseCodeDecoder.dll
+C:\Work_space\MorseCodeDecoder\obj\Debug\net6.0\MorseCodeDecoder.pdb
+C:\Work_space\MorseCodeDecoder\obj\Debug\net6.0\ref\MorseCodeDecoder.dll
